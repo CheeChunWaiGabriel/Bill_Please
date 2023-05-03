@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BillCalculator</string>
+    <string name="input1">Bill Amount:</string>
+    <string name="hint1">Enter the amount billed.</string>
+    <string name="input2">People paying the bill:</string>
+    <string name="hint2">Enter the number of people who are paying the bill.</string>
+    <string name="input3">Discounts:</string>
+    <string name="hint3">Enter any applicable discounts.</string>
+    <string name="FreeDiscount">No SVS</string>
+    <string name="NoFreeDiscount">SVS</string>
+    <string name="AdditionalTax">GST</string>
+    <string name="NoAdditionalTax">No GST</string>
+    <string name="PaymentMethodAa">Cash</string>
+    <string name="PaymentMethodBa">PayNow</string>
+    <string name="ValueToPay">Total Bill:</string>
+    <string name="SplitValueToPay">Each Person Pays:</string>
+    <string name="SplitEnable">Split</string>
+    <string name="SplitDisable">NoSplit</string>
+    <string name="ResetEnable">Reset</string>
+    <string name="ResetDisable">Resetted</string>
+</resources>
